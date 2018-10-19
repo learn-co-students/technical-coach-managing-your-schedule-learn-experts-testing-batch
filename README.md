@@ -6,7 +6,7 @@ Schedule and availability management is done through WhenIWork.
 
 You can set your availability preferences through WhenIWork. Click on your profile, then click `My Availability`. From here, you can set your preferences for when you would like to work, when you would prefer not to work, and when you're unavailable.
 
-Your Technical Coach Manager will do their best to accommodate your preferences, but you may not get all the shifts or times you've requested, or you may get more. In that case, feel free to swap, drop, or add a shift in WhenIWork.
+Your Faculty Manager will do their best to accommodate your preferences, but you may not get all the shifts or times you've requested, or you may get more. In that case, feel free to swap, drop, or add a shift in WhenIWork.
 
 ## Swapping a Shift
 
@@ -36,4 +36,4 @@ For better or more immediate visibility on the drop request, send an email to [l
 
 Available open shifts will appear at the bottom of your schedule, beneath the calendar. To pick up an open shift, click on one, then follow the instructions, then confirm the shift has been added to your schedule. 
 
-**Note: For any scheduling issues that can't be resolved through WhenIWork, please contact your Technical Coach Manager: [ruth.mesfun@flatironschool.com](mailto:ruth.mesfun@flatironschool.com).**
+**Note: For any scheduling issues that can't be resolved through WhenIWork, please contact your Faculty Manager: [ruth.mesfun@flatironschool.com](mailto:ruth.mesfun@flatironschool.com).**
