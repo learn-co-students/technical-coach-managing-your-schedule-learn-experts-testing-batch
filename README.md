@@ -17,7 +17,9 @@ Your Faculty Manager will do their best to accommodate your preferences, but you
 * Click on the shift you'd like to swap, then select `Swap Shift`
 * Select the shifts you'd like to trade, add a message, then click `Initiate Swap`. This will message anyone on those shifts with a request to trade shifts.
 
-If you want better or more immediate visibility on the swap request, send an email to [learnexperts@flatironschool.com](mailto:learnexperts@flatironschool.com) letting everyone know that you're looking to swap the shift. If you're looking for a swap, and a reply comes in, make sure to reply-all and let everyone know if that exchange works or does not work for you (so people know if they should keep going after this shift). Make sure you confirm the swap on WhenIWork!
+If you want better or more immediate visibility on the swap request, send an email to [osbtechcoaches@flatironschool.com](mailto:osbtechcoaches@flatironschool.com) letting everyone know that you're looking to swap the shift. If you're looking for a swap, and a reply comes in, make sure to reply-all and let everyone know if that exchange works or does not work for you (so people know if they should keep going after this shift). Another option would be to  `@here` the `#online-tc-channel` for more urgent requests, but again, be sure to reply to any responses.
+
+Make sure you confirm the swap on WhenIWork!
 
 *Note: Until a shift is successfully swapped, you are still responsible for it.*
 
@@ -30,7 +32,7 @@ Dropping a shift is very similar to swapping a shift.
 * Click on the shift you'd like to swap, then select `Drop Shift`
 * Select the users you'd like to offer the shift to, add a message, then click `Initiate Drop`. This will message anyone on those shifts with a request to pick up the shift.
 
-For better or more immediate visibility on the drop request, send an email to [learnexperts@flatironschool.com](mailto:learnexperts@flatironschool.com) and follow the instructions as listed for swapping a shift.
+For better or more immediate visibility on the drop request, send an email to [osbtechcoaches@flatironschool.com](mailto:osbtechcoaches@flatironschool.com) and follow the instructions as listed for swapping a shift.
 
 *Note: Until a shift is successfully dropped, you are still responsible for it.*
 
