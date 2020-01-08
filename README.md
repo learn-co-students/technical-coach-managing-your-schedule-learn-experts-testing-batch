@@ -13,11 +13,11 @@ Your Faculty Manager will do their best to accommodate your preferences, but you
 ## Swapping a Shift
 
 * Log into WhenIWork
-* Go to `My Schedule`
+* Click on your profile icon and go to to `My Schedule`
 * Click on the shift you'd like to swap, then select `Swap Shift`
 * Select the shifts you'd like to trade, add a message, then click `Initiate Swap`. This will message anyone on those shifts with a request to trade shifts.
 
-If you want better or more immediate visibility on the swap request, send an email to [learnexperts@flatironschool.com](mailto:learnexperts@flatironschool.com) letting everyone know that you're looking to the shift.If you're looking for a swap, and a reply comes in, make sure to reply-all and let everyone know if that exchange works or does not work for you (so people know if they should keep going after this shift). Make sure you confirm the swap on WhenIWork!
+If you want better or more immediate visibility on the swap request, send an email to [learnexperts@flatironschool.com](mailto:learnexperts@flatironschool.com) letting everyone know that you're looking to swap the shift. If you're looking for a swap, and a reply comes in, make sure to reply-all and let everyone know if that exchange works or does not work for you (so people know if they should keep going after this shift). Make sure you confirm the swap on WhenIWork!
 
 *Note: Until a shift is successfully swapped, you are still responsible for it.*
 
@@ -26,7 +26,7 @@ If you want better or more immediate visibility on the swap request, send an ema
 Dropping a shift is very similar to swapping a shift.
 
 * Log into WhenIWork
-* Go to `My Schedule`
+* Click on your profile icon and go to `My Schedule`
 * Click on the shift you'd like to swap, then select `Drop Shift`
 * Select the users you'd like to offer the shift to, add a message, then click `Initiate Drop`. This will message anyone on those shifts with a request to pick up the shift.
 
@@ -38,4 +38,4 @@ For better or more immediate visibility on the drop request, send an email to [l
 
 Available open shifts will appear at the bottom of your schedule, beneath the calendar. To pick up an open shift, click on one, then follow the instructions, then confirm the shift has been added to your schedule.
 
-**Note: For any scheduling issues that can't be resolved through WhenIWork, please contact your Faculty Manager: [ruth.mesfun@flatironschool.com](mailto:ruth.mesfun@flatironschool.com).**
+**Note: For any scheduling issues that can't be resolved through WhenIWork, please contact your Erika, your Faculty Manager, via Slack or at: [erika.hughes@flatironschool.com ](mailto:erika.hughes@flatironschool.com ).**
