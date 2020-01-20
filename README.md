@@ -1,6 +1,6 @@
 # Managing Your Schedule
 
-Schedule and availability management is done through [WhenIWork](https://app.wheniwork.com).
+AAQ is open from 9am - 1am EST Monday-Friday and 9am - 12am Saturday and Sunday, except on major holidays. Schedule and availability management is done through [WhenIWork](https://app.wheniwork.com).
 
 ## Setting Your Availability
 
