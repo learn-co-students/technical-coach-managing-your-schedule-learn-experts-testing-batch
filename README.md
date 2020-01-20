@@ -10,7 +10,7 @@ When you click on a particular date in the WhenIWork calendar, you can specify a
 
 In addition to the preferences listed in WhenIWork, there is also a Google doc that Erika sends out once a month (generally the second Monday of the month) for shift preferences, **if** there are enough TCs on staff to allow some flexibility. Think of this as your "wish list" for the next month - Erika will try to accommodate you if possible, but ultimately the availabilities given in WhenIWork will take precedence.
 
-In this document, you are allowed to choose your preferred shifts each week (six shifts in total). For example, you might like a 2-7 shift Monday through Thursday and a 9-1 on Saturday mornings. **You cannot fill in slots that have been taken already**. When you are finished filling in your preferences, you'll fill in an `X` next to your name at the top of the Google doc. This that is based on your availability - TCs that have more availability in WhenIWork are given access to the document before TCs with less availability have access to it. Outside of that, it is a first-come, first-served system. 
+In this document, you are allowed to choose your preferred shifts each week (six shifts in total). For example, you might like a 2-7 shift Monday through Thursday and a 9-1 on Saturday mornings. **You cannot fill in slots that have been taken already**. When you are finished filling in your preferences, you'll fill in an `X` next to your name at the top of the Google doc. This that is based on your availability - TCs that have more availability in WhenIWork are given access to the document before TCs with less availability have access to it. Outside of that, it is a first-come, first-served system.
 
 Your Faculty Manager will do their best to accommodate your preferences, but you may not get all the shifts or times you've requested, or you may get more. In that case, feel free to swap, drop, or add a shift in WhenIWork.
 
@@ -23,9 +23,8 @@ Your Faculty Manager will do their best to accommodate your preferences, but you
 
 If you want better or more immediate visibility on the swap request, send an email to [osbtechcoaches@flatironschool.com](mailto:osbtechcoaches@flatironschool.com) letting everyone know that you're looking to swap the shift. If you're looking for a swap, and a reply comes in, make sure to reply-all and let everyone know if that exchange works or does not work for you (so people know if they should keep going after this shift). Another option would be to  `@here` the `#online-tc-channel` for more urgent requests, but again, be sure to reply to any responses.
 
-Make sure you confirm the swap on WhenIWork!
-
 *Note: Until a shift is successfully swapped, you are still responsible for it.*
+__Make sure that the shift swap is reflected in WhenIWork, as it is **crtitical** that your logged hours match those lifted on WhenIWork.__ For weird cases (e.g. partial swaps or a TC covering part of your shift) Erika will need to make this update for you. **Please slack or email her to keep her in the loop so that she can make the necessary update on WhenIWork.**
 
 ## Dropping a Shift
 
@@ -39,6 +38,8 @@ Dropping a shift is very similar to swapping a shift.
 For better or more immediate visibility on the drop request, send an email to [osbtechcoaches@flatironschool.com](mailto:osbtechcoaches@flatironschool.com) and follow the instructions as listed for swapping a shift.
 
 *Note: Until a shift is successfully dropped, you are still responsible for it.*
+
+__Make sure that the shift drop is reflected in WhenIWork, as it is **crtitical** that your logged hours match those lifted on WhenIWork.__
 
 ## Picking Up an Open Shift
 
