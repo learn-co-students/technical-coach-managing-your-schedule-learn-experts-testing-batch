@@ -8,7 +8,7 @@ You can set your availability preferences through WhenIWork. Click on your profi
 
 When you click on a particular date in the WhenIWork calendar, you can specify a block of time, and a preference - either `I'M UNAVAILABLE TO WORK` or `I PREFER TO WORK`. Any blocks of time that are not marked off as one of these two options are generally understood to be times when you are available, but would prefer not to work. **You may ultimately be scheduled during those times.**
 
-Your Faculty Manager will do their best to accommodate your preferences, but you may not get all the shifts or times you've requested, or you may get more. In that case, feel free to swap, drop, or add a shift in WhenIWork.
+*Your Faculty Manager will do their best to accommodate your preferences, but you may not get all the shifts or times you've requested, or you may get more*. In that case, feel free to swap, drop, or add a shift in WhenIWork.
 
 In addition to the preferences listed in WhenIWork, there is also a Google doc that Erika sends out once a month (generally the second Monday of the month) for shift preferences, **if** there are enough TCs on staff to allow some flexibility. In this document, you choose your preferred shifts for each week (up to six shifts in total). For example, you might like a 2-7 shift Monday through Thursday and a 9-1 on Saturday mornings. Think of this as your "wish list" for the next month - Erika will try to accommodate you if possible, but ultimately the availabilities given in WhenIWork will take precedence.
 
@@ -24,7 +24,8 @@ This Google doc system is based on your availability - TCs that have more availa
 If you want better or more immediate visibility on the swap request, send an email to [osbtechcoaches@flatironschool.com](mailto:osbtechcoaches@flatironschool.com) letting everyone know that you're looking to swap the shift. If you're looking for a swap, and a reply comes in, make sure to reply-all and let everyone know if that exchange works or does not work for you (so people know if they should keep going after this shift). Another option would be to  `@here` the `#online-tc-channel` for more urgent requests, but again, be sure to reply to any responses.
 
 *Note: Until a shift is successfully swapped, you are still responsible for it.*
-__Make sure that the shift swap is reflected in WhenIWork, as it is **crtitical** that your logged hours match those lifted on WhenIWork.__ For weird cases (e.g. partial swaps or a TC covering part of your shift) Erika will need to make this update for you. **Please slack or email her to keep her in the loop so that she can make the necessary update on WhenIWork.**
+
+__Make sure that the shift swap is reflected in WhenIWork, as it is **crtitical** that your logged hours match those listed on WhenIWork.__ For weird cases (e.g. partial swaps or a TC covering part of your shift), Erika will need to make this update for you. **Please slack or email her to keep her in the loop so that she can make the necessary update on WhenIWork.**
 
 ## Dropping a Shift
 
