@@ -8,11 +8,11 @@ You can set your availability preferences through WhenIWork. Click on your profi
 
 When you click on a particular date in the WhenIWork calendar, you can specify a block of time, and a preference - either `I'M UNAVAILABLE TO WORK` or `I PREFER TO WORK`. Any blocks of time that are not marked off as one of these two options are generally understood to be times when you are available, but would prefer not to work. **You may ultimately be scheduled during those times.**
 
-In addition to the preferences listed in WhenIWork, there is also a Google doc that Erika sends out once a month (generally the second Monday of the month) for shift preferences, **if** there are enough TCs on staff to allow some flexibility. Think of this as your "wish list" for the next month - Erika will try to accommodate you if possible, but ultimately the availabilities given in WhenIWork will take precedence.
-
-In this document, you are allowed to choose your preferred shifts each week (six shifts in total). For example, you might like a 2-7 shift Monday through Thursday and a 9-1 on Saturday mornings. **You cannot fill in slots that have been taken already**. When you are finished filling in your preferences, you'll fill in an `X` next to your name at the top of the Google doc. This that is based on your availability - TCs that have more availability in WhenIWork are given access to the document before TCs with less availability have access to it. Outside of that, it is a first-come, first-served system.
-
 Your Faculty Manager will do their best to accommodate your preferences, but you may not get all the shifts or times you've requested, or you may get more. In that case, feel free to swap, drop, or add a shift in WhenIWork.
+
+In addition to the preferences listed in WhenIWork, there is also a Google doc that Erika sends out once a month (generally the second Monday of the month) for shift preferences, **if** there are enough TCs on staff to allow some flexibility. In this document, you choose your preferred shifts for each week (up to six shifts in total). For example, you might like a 2-7 shift Monday through Thursday and a 9-1 on Saturday mornings. Think of this as your "wish list" for the next month - Erika will try to accommodate you if possible, but ultimately the availabilities given in WhenIWork will take precedence.
+
+This Google doc system is based on your availability - TCs that have more availability in WhenIWork are given access to the document before TCs with less availability have access to it. Outside of that, it is a first-come, first-served system. **You cannot fill in slots that have been taken already**. When you are finished filling in your preferences, you'll fill in an `X` next to your name at the top of the Google doc.
 
 ## Swapping a Shift
 
